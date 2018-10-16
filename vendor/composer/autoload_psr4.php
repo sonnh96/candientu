@@ -53,6 +53,7 @@ return array(
     'Pelago\\' => array($vendorDir . '/pelago/emogrifier/Classes'),
     'PDepend\\' => array($vendorDir . '/pdepend/pdepend/src/main/php/PDepend'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
+    'Mageplaza\\Core\\' => array($vendorDir . '/mageplaza/module-core'),
     'Magento\\Wishlist\\' => array($vendorDir . '/magento/module-wishlist'),
     'Magento\\Widget\\' => array($vendorDir . '/magento/module-widget'),
     'Magento\\Weee\\' => array($vendorDir . '/magento/module-weee'),
