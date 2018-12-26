@@ -126,6 +126,6 @@ return array(
     '1158fd4355efa1508f87cf82bdcd70ac' => $vendorDir . '/magento/module-admin-notification/registration.php',
     'ecb8e9b41f51c277a87468608b694cd4' => $vendorDir . '/magento/module-marketplace/registration.php',
     '6b5b87bda6fedcf6ef8605219c8b67f2' => $vendorDir . '/mageplaza/module-core/registration.php',
-    'fafc74b18998cb7256cedcfe0ee5fcb3' => $vendorDir . '/mageplaza/magento-2-vietnamese-language-pack/registration.php',
+    // 'fafc74b18998cb7256cedcfe0ee5fcb3' => $vendorDir . '/mageplaza/magento-2-vietnamese-language-pack/registration.php',
     'b4cf39431a4b949eea8aa69ebb3d39da' => $baseDir . '/app/etc/NonComposerComponentRegistration.php',
 );

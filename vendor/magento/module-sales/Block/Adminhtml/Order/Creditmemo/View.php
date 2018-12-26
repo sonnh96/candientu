@@ -180,7 +180,7 @@ class View extends \Magento\Backend\Block\Widget\Form\Container
      */
     public function getVoidUrl()
     {
-        return $this->getUrl('sales/*/void', ['creditmemo_id' => $this->getCreditmemo()->getId()]);
+        return $this->getUrl('sales/*/voidCreditmemo', ['creditmemo_id' => $this->getCreditmemo()->getId()]);
     }
 
     /**

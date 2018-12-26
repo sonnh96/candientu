@@ -239,7 +239,7 @@ class View extends \Magento\Backend\Block\Widget\Form\Container
      */
     public function getVoidUrl()
     {
-        return $this->getUrl('sales/*/void', ['invoice_id' => $this->getInvoice()->getId()]);
+        return $this->getUrl('sales/*/voidInvoice', ['invoice_id' => $this->getInvoice()->getId()]);
     }
 
     /**
